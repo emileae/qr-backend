@@ -1,0 +1,17 @@
+{
+  "kind": "collectionType",
+  "collectionName": "qrs",
+  "info": {
+    "name": "qr"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "svg": {
+      "type": "text",
+      "required": true
+    }
+  }
+}
