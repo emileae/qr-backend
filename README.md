@@ -1,3 +1,3 @@
-# Strapi application
+# QR strapi backend
 
-A quick description of your strapi application
+Strapi based graphql server for a very simple svg string. PostgreSQL is hosted on Google Cloud SQL
